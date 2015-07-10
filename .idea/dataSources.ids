@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails ELMySQL: development" uuid="f153caef-36a3-4b4f-b7b3-ce47e9184f14">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails ELMySQL: test" uuid="1799de6e-313a-4b9c-b871-580cc8fef950">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails ELMySQL: production" uuid="f98b2a69-4486-4c50-801b-a329fc7f7ba3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
